@@ -35,7 +35,7 @@ VBA Add-in code are not included in the GEOSage sample.
 >Takes in a latitude, longitude pair and returns the first formatted address from GEOSage.
 
 ## TO-DO List
-* Functionality for ArcGIS, Bing Maps, Data Science Toolkit etc.
+* Functionality for [ArcGIS](https://www.arcgis.com/), [Bing Maps](https://www.bing.com/maps/), [Data Science Toolkit](http://www.datasciencetoolkit.org/) etc.
 
 ## Copyright / End User License
 ### Copyright
