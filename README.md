@@ -1,5 +1,7 @@
 # GEOSage
 
+A VBA application for geocoding and reverse geocoding in Excel. Supports both Google's free and enterprise for business geocoder (Google Maps APIs for Business, Google Maps for Work or Google Maps).
+
 ## What's New
 ### February 05, 2020
 >[Initial release.](https://dev.azure.com/happybono/FinedustMonitorWithGPS/_versionControl?path=%24%2FFinedustMonitorWithGPS%2FMaps%2FSpreadSheet%2FReverseGeocoding.vb)
