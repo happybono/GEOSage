@@ -2,6 +2,8 @@
 
 A VBA application for geocoding and reverse geocoding in Excel. Supports both Google's free and enterprise for business geocoder (Google Maps APIs for Business, Google Maps for Work or Google Maps).
 
+Please note : The Google Maps Platform Premium Plan is no longer available for sign up or new customers since November 1, 2018.
+
 ## What's New
 ### February 05, 2020
 >[Initial release.](https://dev.azure.com/happybono/FinedustMonitorWithGPS/_versionControl?path=%24%2FFinedustMonitorWithGPS%2FMaps%2FSpreadSheet%2FReverseGeocoding.vb)
