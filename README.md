@@ -24,8 +24,8 @@ VBA Add-in code are not included in the GEOSage sample.
 > [Added GEOSage.bas file to support directly import from Microsoft Excel.](https://dev.azure.com/happybono/GEOSage/_versionControl?itemPath=%24%2FGEOSage%2FGEOSage.bas)
 
 ## Prerequisites
-* **Enable [Developer] tab** in **Microsoft Excel**.
-* Within the **[Visual Basic IDE]**, add **"Microsoft XML, v6.0"**, **"Microsoft ActiveX Data Objects 6.1 Library"** both as  **References**. Could be found within **[Tools]** - **[References]**.
+* **Enable [Developer] tab** in **Microsoft Excel**. <br><br><img src="https://github.com/happybono/GEOSage/blob/master/Resources/GEOSage-SBS-001.png" alt="Step By Step 001" width="1658"><br><br>
+* Within the **[Visual Basic IDE]**, add **"Microsoft XML, v6.0"**, **"Microsoft ActiveX Data Objects 6.1 Library"** both as  **References**. Could be found within **[Tools]** - **[References]**. <br><br><img src="https://github.com/happybono/GEOSage/blob/master/Resources/GEOSage-SBS-002.png" alt="Step By Step 002" width="600">
 
 ## Usage
 #### =ADDRGEOCODE([Address]) <br>
