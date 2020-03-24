@@ -24,7 +24,7 @@ VBA Add-in code are not included in the GEOSage sample.
 > [Added GEOSage.bas file to support directly import from Microsoft Excel.](https://dev.azure.com/happybono/GEOSage/_versionControl?itemPath=%24%2FGEOSage%2FGEOSage.bas)
 
 ### March 24, 2020
-> Officially released to the public as a standalone project.
+> [Officially released to the public as a standalone project.](https://github.com/happybono/GEOSage)
 
 ## Prerequisites
 * **Enable [Developer] tab** in **Microsoft Excel**. <br><br><img src="https://github.com/happybono/GEOSage/blob/master/Resources/GEOSage-SBS-001.png" alt="Step By Step 001" width="1658"><br><br>
