@@ -4,6 +4,13 @@ A VBA application for geocoding and reverse geocoding in Excel. Supports both Go
 
 **Please note : The Google Maps Platform Premium Plan is no longer available for sign up or new customers since November 1, 2018.**
 
+<div align="center">
+<img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/happybono/GEOSage"> 
+<img alt="GitHub Repo Size" src="https://img.shields.io/github/repo-size/happybono/GEOSage">
+<img alt="GitHub Repo Languages" src="https://img.shields.io/github/languages/count/happybono/GEOSage">
+<img alt="GitHub Top Languages" src="https://img.shields.io/github/languages/top/HappyBono/GEOSage">
+</div>
+
 ## What's New
 ### February 05, 2020
 >[Initial release.](https://dev.azure.com/happybono/FinedustMonitorWithGPS/_versionControl?path=%24%2FFinedustMonitorWithGPS%2FMaps%2FSpreadSheet%2FReverseGeocoding.vb)
