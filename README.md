@@ -1,6 +1,6 @@
 # GEOSage <br> <img src="https://github.com/happybono/GEOSage/blob/master/Resources/powered_by_msexcel_on_white.png" alt="Powered by MSExcel logo" width="217"/>
 
-A VBA application for geocoding and reverse geocoding in Excel. Supports both Google's free and enterprise for business geocoder (Google Maps APIs for Business, Google Maps for Work or Google Maps).
+A VBA (Visual Basic for Applications) application for geocoding and reverse geocoding in Excel. Supports both Google's free and enterprise for business geocoder (Google Maps APIs for Business, Google Maps for Work or Google Maps).
 
 **Please note : The Google Maps Platform Premium Plan is no longer available for sign up or new customers since November 1, 2018.**
 
@@ -53,7 +53,7 @@ VBA Add-in code are not included in the GEOSage sample.
 
 ## Copyright / End User License
 ### Copyright
-Copyright ⓒ HappyBono 2020 - 2021. All rights Reserved.
+Copyright ⓒ HappyBono 2020 - 2022. All rights Reserved.
 
 ### MIT License
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
