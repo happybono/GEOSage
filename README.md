@@ -130,7 +130,7 @@ Sub ExampleUsage()
     Dim lng As String
     Dim addressFromLatLng As String
 
-    address = "1600 Amphitheatre Parkway, Mountain View, CA"
+    address = "B92 GARAGE, REDMOND, WA"
     latlng = ADDRGEOCODE(address)
     Debug.Print "Geocoded Address: " & latlng
 
@@ -139,6 +139,7 @@ Sub ExampleUsage()
     addressFromLatLng = REVSGEOCODE(lat, lng)
     Debug.Print "Reverse Geocoded Address: " & addressFromLatLng
 End Sub
+```
 
 ## TO-DO List
 * Functionality for [ArcGIS](https://www.arcgis.com/), [Bing Maps](https://www.bing.com/maps/), [Data Science Toolkit](http://www.datasciencetoolkit.org/) etc.
