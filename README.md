@@ -144,13 +144,7 @@ End Sub
 ## TO-DO List
 * Functionality for [ArcGIS](https://www.arcgis.com/), [Bing Maps](https://www.bing.com/maps/), [Data Science Toolkit](http://www.datasciencetoolkit.org/) etc.
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
 ## Copyright 
-Copyright ⓒ HappyBono 2020 - 2025. All rights Reserved.
-
-## Copyright
 Copyright ⓒ HappyBono 2020 - 2025. All rights Reserved.
 
 ## License
