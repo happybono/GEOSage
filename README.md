@@ -1,4 +1,7 @@
-# GEOSage <br> <img src="https://github.com/happybono/GEOSage/blob/master/Resources/powered_by_msexcel_on_white.png" alt="Powered by MSExcel logo" width="217"/>
+# GEOSage 
+
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/happybono/GEOSage/blob/master/Resources/powered_by_msexcel_on_white.png" width="220">
+  <img alt="Powered by MSExcel logo" src="https://github.com/happybono/GEOSage/blob/master/Resources/powered_by_msexcel_on_non_white.png" width="220">
 
 This VBA module provides functions to interact with the Google Geocoding API. It can perform both addresses to latitude / longitude conversion (geocoding) and latitude / longitude to address conversion (reverse geocoding). The code supports various types of API plans, including free, Enterprise, and Premium.
 
