@@ -1,7 +1,7 @@
 # GEOSage 
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/happybono/GEOSage/blob/master/Resources/powered_by_msexcel_on_white.png" width="220">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/happybono/GEOSage/blob/master/Resources/powered_by_msexcel_on_non_white.png" width="220">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/happybono/GEOSage/blob/master/Resources/powered_by_msexcel_on_non_white.png" width="220">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/happybono/GEOSage/blob/master/Resources/powered_by_msexcel_on_white.png" width="220">
   <img alt="IMAGE" src="https://github.com/happybono/GEOSage/blob/master/Resources/powered_by_msexcel_on_non_white.png">
 </picture>
 
