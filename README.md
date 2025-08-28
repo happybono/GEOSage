@@ -19,6 +19,7 @@ This VBA module provides functions to interact with the Google Geocoding API. It
 ## What's New
 <details>
 <summary>Click to Expand</summary>
+
 ### February 05, 2020
 >[Initial release.](https://dev.azure.com/happybono/FinedustMonitorWithGPS/_versionControl?path=%24%2FFinedustMonitorWithGPS%2FMaps%2FSpreadSheet%2FReverseGeocoding.vb)
 
