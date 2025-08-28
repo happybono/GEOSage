@@ -17,6 +17,8 @@ This VBA module provides functions to interact with the Google Geocoding API. It
 </div>
 
 ## What's New
+<details>
+<summary>Click to Expand</summary>
 ### February 05, 2020
 >[Initial release.](https://dev.azure.com/happybono/FinedustMonitorWithGPS/_versionControl?path=%24%2FFinedustMonitorWithGPS%2FMaps%2FSpreadSheet%2FReverseGeocoding.vb)
 
@@ -36,6 +38,7 @@ VBA Add-in code are not included in the GEOSage sample.
 
 ### March 03, 2020
 > [Added GEOSage.bas file to support directly import from Microsoft Excel.](https://dev.azure.com/happybono/GEOSage/_versionControl?itemPath=%24%2FGEOSage%2FGEOSage.bas)
+</details>
 
 ### March 24, 2020
 > [Officially released to the public as a standalone project.](https://github.com/happybono/GEOSage)
