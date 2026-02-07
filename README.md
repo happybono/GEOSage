@@ -7,7 +7,8 @@
 
 This VBA module provides functions to interact with the Google Geocoding API. It can perform both addresses to latitude / longitude conversion (geocoding) and latitude / longitude to address conversion (reverse geocoding). The code supports various types of API plans, including free, Enterprise, and Premium.
 
-**Please note : The Google Maps Platform Premium Plan is no longer available for sign-up or new customers since November 1, 2018.**
+> [!Important]
+> **The Google Maps Platform Premium Plan is no longer available for sign-up or new customers since November 1, 2018.**
 
 <div align="center">
 <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/happybono/GEOSage"> 
@@ -154,8 +155,9 @@ End Sub
 * Functionality for [ArcGIS](https://www.arcgis.com/), [Bing Maps](https://www.bing.com/maps/), [Data Science Toolkit](http://www.datasciencetoolkit.org/) etc.
 
 ## Notes
-- This code includes a sleep function to avoid exceeding the rate limit for the API calls. Adjust the sleep duration as necessary.
-- The gintType constant determines which type of API plan to use. Make sure to set it according to your API plan.
+> [!Note]
+> * This code includes a sleep function to avoid exceeding the rate limit for the API calls. Adjust the sleep duration as necessary.
+> * The gintType constant determines which type of API plan to use. Make sure to set it according to your API plan.
 
 ## Copyright 
 Copyright ⓒ HappyBono 2020 - 2026. All rights Reserved.
